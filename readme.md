@@ -39,11 +39,11 @@ Previously Attended:
 - **Adaptability**: Quick learner with proven track record of mastering new skills rapidly
 
 ## Work Experience
-### Site Manager | DK Construction, Grand Rapids, MI
-*November 2014 - March 2018*
-- Coordinated complex project schedules and client interactions
-- Utilized problem-solving skills to address unique project challenges
-- Managed team coordination and technical tool usage
+### Server | Rosie O'Grady's, Ferndale, MI
+*January 2018 - March 2019*
+- Consistently maintained high customer satisfaction while managing 8-10 tables during peak hours, handling food service and payments with accuracy and professionalism
+- Memorized extensive food and beverage menus to provide detailed recommendations
+- Collaborated seamlessly with kitchen staff and fellow servers during high-volume shifts, ensuring timely delivery of orders while maintaining quality presentation
 
 ### Bartender/Server | Rascals, Saginaw, MI
 *July 2019 - Present*
