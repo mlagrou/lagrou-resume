@@ -47,9 +47,9 @@ Previously Attended:
 
 ### Bartender/Server | Rascals, Saginaw, MI
 *July 2019 - Present*
-- Managed financial transactions and reporting systems
-- Demonstrated ability to work efficiently under high-stress environments
-- Developed strong interpersonal and multitasking capabilities
+ - Independently manage all bar operations during shifts, including bartending, food prep, security, and financial responsibilities while maintaining exceptional service for up      to 40+ guests
+- Built and maintained strong relationships with regular daytime clientele while skillfully transitioning the atmosphere for high-volume evening crowd
+- Demonstrate versatility by expertly handling multiple roles - crafting cocktails, preparing kitchen orders, monitoring security, and managing inventory/cash flows during 8-hour   shifts without backup
 
 ## Projects
 ### Penguin Game
